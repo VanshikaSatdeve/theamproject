@@ -1,0 +1,24 @@
+.adjust{
+    height: fit-content;
+    width: 1390px;
+    margin-left: 90px;
+
+}
+
+/* .adjust2{
+    height: 500px;
+    width: 1400px;
+    margin-left: 30px;
+} */
+
+.button{
+    margin: 43px 600px;
+    padding: 13px 31px;
+    color: azure;
+    background-color: rgb(10, 86, 134);
+    font-size: large;
+}
+
+.label{
+    text-align: center;
+}
